@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there
 
-<!--
-**BNZ94/BNZ94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📰 News
+I am seeking a **five-month research internship in Artificial Intelligence**, starting in **April 2026**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+Hi, I'm **Belgacem Ben Ziada**, a **4th-year engineering student at École Polytechnique** and currently enrolled in the **M2 IASD (Artificial Intelligence, Systems & Data)** at **Université PSL / Paris Dauphine**.  
+I'am passionate about **AI research** and plan to pursue a **PhD** after completing a **research internship** in the field.
+I completed a **research internship** on **optimization and large language models**, where I worked on developing LLM-driven algorithms and a multi-agent framework for adaptive optimization.  
+
+---
+
+## 🎓 Education
+- **École Polytechnique** – Computer Science & Applied Mathematics  
+- **Université PSL / Paris Dauphine** – M2 IASD (AI, Systems & Data)  
+
+---
+
+## 🧰 Skills
+**Programming:** Python, C++, OCaml, Java, SQL  
+**Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face  
+**Tools:** Git, Bash, Linux, LaTeX  
+
+---
+
+## ⚽ Interests
+AI research, football (13 years in club), gaming, cinema, and literature.
+
+---
+
+📫 **belgacem.ben-ziada@polytechnique.edu**  
+[LinkedIn](https://www.linkedin.com/in/belgacem-ben-ziada/)
