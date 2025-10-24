@@ -30,5 +30,5 @@ AI research, football (13 years in club), gaming, cinema, and literature.
 
 ---
 
-📫 **belgacem.ben-ziada@polytechnique.edu**  
+[**Email**](mailto:belgacem.ben-ziada@polytechnique.edu)  
 [LinkedIn](https://www.linkedin.com/in/belgacem-ben-ziada/)
